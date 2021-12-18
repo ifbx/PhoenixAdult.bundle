@@ -524,7 +524,7 @@ searchSites = {
     340: ('FakeHub', 'https://www.fakehub.com', 'https://site-api.project1service.com'),
     341: ('Big Cock Bully', 'https://tour.naughtyamerica.com', 'https://i6p9q9r18e-3.algolianet.com/1/indexes/*/queries'),
     342: ('VirtualRealPorn', 'https://virtualrealporn.com', '/vr-porn-video/'),
-    343: ('Analized', 'https://analized.com', '/1/search/'),
+    343: ('Analized', 'https://analized.com', '/search.php?query='),
     344: ('James Deen', 'https://jamesdeen.com', '/1/search/'),
     345: ('Twisted Visual', 'https://twistedvisual.com', '/1/search/'),
     346: ('Only Prince', 'https://onlyprince.com', '/1/search/'),
